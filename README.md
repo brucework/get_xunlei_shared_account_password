@@ -1,0 +1,2 @@
+# get_xunlei_shared_account_password
+获取分享社的每日更新的迅雷账号密码
